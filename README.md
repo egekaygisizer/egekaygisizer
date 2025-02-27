@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Trying to be IOS developer<br>👨‍🎓 Student at DEU CS
+🧑‍💻 Jr. IOS developer<br>👨‍🎓 Student at DEU CS
 
 
 ## 🌐 Socials:
