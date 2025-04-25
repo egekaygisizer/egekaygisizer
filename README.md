@@ -1,22 +1,38 @@
-# 💫 About Me:
-🧑‍💻 Jr. IOS developer<br>👨‍🎓 Student at DEU CS
+# 👋 Hi there, I'm Ege Kaygısızer
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KaygEge) 
-
-# 💻 Tech Stack:
-<div>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-</div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=egekaygisizer&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=egekaygisizer&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🎓 I’m a Computer Science student at Dokuz Eylül University and an iOS Developer passionate about building clean and useful apps with Swift
 
 ---
-[![](https://visitcount.itsvg.in/api?id=egekaygisizer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠️ Tech Stack
+
+- **Languages:** Swift, C, Obj-C (basic), JavaScript, Node.js
+- **Frameworks:** SwiftUI (main), UIKit (basic), Combine, SwiftData, CoreData, MVVM...
+- **Tools:** Xcode, Firebase, Git, GitHub
+
+---
+
+## 🧠 What I'm Working On
+
+- 🧩 **Improving my CS skills**
+  - Solving [LeetCode Daily Questions](https://github.com/egekaygisizer/LeetCode-Daily-Problem) and sharing solutions
+- 📱 **Developing iOS Apps**
+  - Learning and using **MVVM**, **Combine**, and **more...**
+- 🐾 **Building pet-focused apps inspired by my own life**
+  - Currently developing **PawPath**, a walking route tracker for dog owners using **MapKit** and **Core Location**
+
+---
+
+## 🚀 Apps on App Store!
+- 🔢 [**MathRush**](https://apps.apple.com/tr/app/mathrush-quick-solve/id6744973300?l=tr) – A simple brain training app with 3 difficulty levels.
+- 📍 **PawPath** – A map-based iOS app for tracking dog walking routes. [Work in progress](https://github.com/egekaygisizer)
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ege-kaygisizer-5b14012b1/)
+- [Instagram](https://www.instagram.com/ege.code/)
+
+---
+
+Thanks for visiting! I'm always open to collaboration, feedback, or just a chat about iOS dev, tech, or cute dogs 🐶  
