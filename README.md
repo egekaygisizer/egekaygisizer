@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Swift, C, Obj-C (basic), JavaScript, Node.js
+- **Languages:** Swift, C, Obj-C (basic), JavaScript
 - **Frameworks:** SwiftUI (main), UIKit (basic), Combine, SwiftData, CoreData, MVVM...
 - **Tools:** Xcode, Firebase, Git, GitHub
 
