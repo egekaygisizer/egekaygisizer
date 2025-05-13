@@ -19,7 +19,7 @@
 - 📱 **Developing iOS Apps**
   - Learning and using **MVVM**, **Combine**, and **more...**
 - 🐾 **Building pet-focused apps inspired by my own life**
-  - Currently developing **PawPath**, a walking route tracker for dog owners using **MapKit** and **Core Location**
+  - Currently developing **PawPath**, a smart tracking app for dog walks, potty logs, and daily care routines using **Core Data**, **MapKit**, **Firebase** and **more**.🐶📍
 
 ---
 
