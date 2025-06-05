@@ -25,7 +25,7 @@
 
 ## 🚀 Apps on App Store!
 - 🔢 [**MathRush**](https://apps.apple.com/tr/app/mathrush-quick-solve/id6744973300?l=tr) – A simple brain training app with 3 difficulty levels.
-- 📍 **PawPath** – A map-based iOS app for tracking dog walking routes. [Work in progress](https://github.com/egekaygisizer)
+- 📍 [**PawPath**](https://apps.apple.com/us/app/pawpath-ai-vet-dog-tracker/id6746102202) – PawPath is an AI-powered dog care & track app
 ---
 
 ## 📫 Let's Connect
