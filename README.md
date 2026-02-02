@@ -31,7 +31,6 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ege-kaygisizer-5b14012b1/)
-- [Instagram](https://www.instagram.com/ege.code/)
 
 ---
 
