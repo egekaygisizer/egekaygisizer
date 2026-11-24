@@ -1,37 +1,45 @@
-# 👋 Hi there, I'm Ege Kaygısızer
+# 👋 Hi, I'm Ege Kaygısızer
 
-🎓 I’m a Computer Science student at Dokuz Eylül University and an iOS Developer passionate about building clean and useful apps with Swift
+🎓 I'm a Computer Science student at Dokuz Eylül University with an interest in building software across different domains. I enjoy working on projects that combine hardware and software, process real-time data, and solve practical problems.
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Swift, C, Obj-C (basic), JavaScript
-- **Frameworks:** SwiftUI (main), UIKit (basic), Combine, SwiftData, CoreData, MVVM...
-- **Tools:** Xcode, Firebase, Git, GitHub
+My main areas of interest are **Embedded Software, Telemetry & Data Analysis, and iOS Development.**
 
 ---
 
-## 🧠 What I'm Working On
+## 🛠️ Technologies & Tools
 
-- 🧩 **Improving my CS skills**
-  - Solving [LeetCode Daily Questions](https://github.com/egekaygisizer/LeetCode-Daily-Problem) and sharing solutions
-- 📱 **Developing iOS Apps**
-  - Learning and using **MVVM**, **Combine**, and **more...**
-- 🐾 **Building pet-focused apps inspired by my own life**
-  - Currently improving **PawPath**, a smart tracking app for dog walks, potty logs, and daily care routines using **Core Data**, **MapKit**, **Firebase** and **more**.🐶📍
+I primarily work with **C/C++, Python, and Swift**. I have experience with embedded systems using ESP32 and FreeRTOS, telemetry processing and data analysis with Python, and mobile application development using SwiftUI, UIKit, Combine, Firebase, SwiftData, and MapKit. I also work with **SQL, PostgreSQL, and SQLite** for database management, alongside Git and GitHub for version control.
 
 ---
 
-## 🚀 Apps on App Store!
-- 🔢 [**MathRush**](https://apps.apple.com/tr/app/mathrush-quick-solve/id6744973300?l=tr) – A simple brain training app with 3 difficulty levels.
-- 📍 [**PawPath**](https://apps.apple.com/us/app/pawpath-ai-vet-dog-tracker/id6746102202) – PawPath is an AI-powered dog care & track app
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [**VDT Platform**](https://github.com/nazbatak/VDT-Platform) | An ESP32-based vehicle platform focused on embedded software, real-time telemetry, sensor integration, and control systems. | C++, ESP32, FreeRTOS |
+| [**ACC-TyrePredictor**](https://github.com/egekaygisizer/ACC-TyrePredictor) | A telemetry-driven project exploring tire pressure prediction and data analysis for Assetto Corsa Competizione. | Python, SQLite, Machine Learning |
+| [**PawPath**](https://github.com/egekaygisizer/PawPath) | An AI-powered dog care and tracking application with activity monitoring and intelligent insights. | Swift, SwiftUI, Firebase, SwiftData, MapKit |
+
+---
+
+## 📱 Published Apps on AppStore
+
+- 🐾 [**PawPath**](https://apps.apple.com/us/app/pawpath-ai-vet-dog-tracker/id6746102202) – An AI-powered dog care and tracking app.
+- 🔢 [**MathRush**](https://apps.apple.com/tr/app/mathrush-quick-solve/id6744973300?l=en) – A simple math training app featuring three difficulty levels.
+
+---
+
+## 🌱 Currently Exploring
+
+- Embedded software development and real-time systems
+- Telemetry processing and data-driven applications
+- Hardware-software integration
+
 ---
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ege-kaygisizer-5b14012b1/)
+- [GitHub](https://github.com/egekaygisizer)
 
----
-
-Thanks for visiting! I'm always open to collaboration, feedback, or just a chat about iOS dev, tech, or cute dogs 🐶  
+Thanks for visiting! Always open to collaboration, feedback, and interesting projects. 🚀
