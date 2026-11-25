@@ -8,7 +8,7 @@ My main areas of interest are **Embedded Software, Telemetry & Data Analysis, an
 
 ## 🛠️ Technologies & Tools
 
-I primarily work with **C/C++, Python, and Swift**. I have experience with embedded systems using ESP32 and FreeRTOS, telemetry processing and data analysis with Python, and mobile application development using SwiftUI, UIKit, Combine, Firebase, SwiftData, and MapKit. I also work with **SQL, PostgreSQL, and SQLite** for database management, alongside Git and GitHub for version control.
+I primarily work with **C/C++, Python, and Swift**. My experience spans developing **embedded systems** using **ESP32** and **FreeRTOS**, performing **telemetry processing and data analysis** in **Python**, and building native **iOS applications** with **SwiftUI, UIKit, and Combine**. On the backend, I work with **Firebase, Node.js, SQL (PostgreSQL, SQLite)**, alongside **Git and GitHub** for version control.
 
 ---
 
@@ -16,7 +16,7 @@ I primarily work with **C/C++, Python, and Swift**. I have experience with embed
 
 | Project | Description | Technologies |
 |---|---|---|
-| [**VDT Platform**](https://github.com/nazbatak/VDT-Platform) | An ESP32-based vehicle platform focused on embedded software, real-time telemetry, sensor integration, and control systems. | C++, ESP32, FreeRTOS |
+| [**VDT Platform**](https://github.com/nazbatak/VDT-Platform) | An ESP32-based RC Car focused on embedded software, real-time telemetry, sensor integration, and control systems. | C++, ESP32, FreeRTOS |
 | [**ACC-TyrePredictor**](https://github.com/egekaygisizer/ACC-TyrePredictor) | A telemetry-driven project exploring tire pressure prediction and data analysis for Assetto Corsa Competizione. | Python, SQLite, Machine Learning |
 | [**PawPath**](https://github.com/egekaygisizer/PawPath) | An AI-powered dog care and tracking application with activity monitoring and intelligent insights. | Swift, SwiftUI, Firebase, SwiftData, MapKit |
 
